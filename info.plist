@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>Monit</string>
+  <key>contactEmailRot13</key>
+  <string>wnl@tbbol.bet</string>
+  <key>contactName</key>
+  <string>Jay Caines-Gooby</string>
+  <key>description</key>
+  <string>A basic syntax bundle for monitrc files</string>
+  <key>uuid</key>
+  <string>F00E4DFE-2E89-4007-9457-8710C4C7E2A3</string>
+</dict>
+</plist>
